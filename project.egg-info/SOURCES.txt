@@ -1,0 +1,14 @@
+setup.py
+betfair/__init__.py
+betfair/items.py
+betfair/middlewares.py
+betfair/pipelines.py
+betfair/settings.py
+betfair/scripts/crawlera.lua
+betfair/spiders/__init__.py
+betfair/spiders/oddsscraper.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
